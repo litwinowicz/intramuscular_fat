@@ -1,7 +1,7 @@
 ## Usage
 
 ```bash
-python process_images.py \
+python fat_dixon.py \
   --fat <path_to_fat.nii> \
   --water <path_to_water.nii> \
   --segmentation <path_to_segmentation.nii> \
